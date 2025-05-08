@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+anthropic
+python-dotenv
+geopy
+pytz
+tzwhere
+python-multipart
+python-dateutil 
